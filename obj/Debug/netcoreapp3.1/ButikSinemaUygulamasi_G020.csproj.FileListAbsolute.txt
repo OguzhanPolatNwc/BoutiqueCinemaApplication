@@ -1,0 +1,27 @@
+C:/Users/Siliconmade Academy/source/repos/ButikSinemaUygulamasi_G020/ButikSinemaUygulamasi_G020/bin/Debug/netcoreapp3.1/ButikSinemaUygulamasi_G020.exe
+C:/Users/Siliconmade Academy/source/repos/ButikSinemaUygulamasi_G020/ButikSinemaUygulamasi_G020/bin/Debug/netcoreapp3.1/ButikSinemaUygulamasi_G020.deps.json
+C:/Users/Siliconmade Academy/source/repos/ButikSinemaUygulamasi_G020/ButikSinemaUygulamasi_G020/bin/Debug/netcoreapp3.1/ButikSinemaUygulamasi_G020.runtimeconfig.json
+C:/Users/Siliconmade Academy/source/repos/ButikSinemaUygulamasi_G020/ButikSinemaUygulamasi_G020/bin/Debug/netcoreapp3.1/ButikSinemaUygulamasi_G020.runtimeconfig.dev.json
+C:/Users/Siliconmade Academy/source/repos/ButikSinemaUygulamasi_G020/ButikSinemaUygulamasi_G020/bin/Debug/netcoreapp3.1/ButikSinemaUygulamasi_G020.dll
+C:/Users/Siliconmade Academy/source/repos/ButikSinemaUygulamasi_G020/ButikSinemaUygulamasi_G020/bin/Debug/netcoreapp3.1/ButikSinemaUygulamasi_G020.pdb
+C:/Users/Siliconmade Academy/source/repos/ButikSinemaUygulamasi_G020/ButikSinemaUygulamasi_G020/obj/Debug/netcoreapp3.1/ButikSinemaUygulamasi_G020.csproj.AssemblyReference.cache
+C:/Users/Siliconmade Academy/source/repos/ButikSinemaUygulamasi_G020/ButikSinemaUygulamasi_G020/obj/Debug/netcoreapp3.1/ButikSinemaUygulamasi_G020.AssemblyInfoInputs.cache
+C:/Users/Siliconmade Academy/source/repos/ButikSinemaUygulamasi_G020/ButikSinemaUygulamasi_G020/obj/Debug/netcoreapp3.1/ButikSinemaUygulamasi_G020.AssemblyInfo.cs
+C:/Users/Siliconmade Academy/source/repos/ButikSinemaUygulamasi_G020/ButikSinemaUygulamasi_G020/obj/Debug/netcoreapp3.1/ButikSinemaUygulamasi_G020.csproj.CoreCompileInputs.cache
+C:/Users/Siliconmade Academy/source/repos/ButikSinemaUygulamasi_G020/ButikSinemaUygulamasi_G020/obj/Debug/netcoreapp3.1/ButikSinemaUygulamasi_G020.dll
+C:/Users/Siliconmade Academy/source/repos/ButikSinemaUygulamasi_G020/ButikSinemaUygulamasi_G020/obj/Debug/netcoreapp3.1/ButikSinemaUygulamasi_G020.pdb
+C:/Users/Siliconmade Academy/source/repos/ButikSinemaUygulamasi_G020/ButikSinemaUygulamasi_G020/obj/Debug/netcoreapp3.1/ButikSinemaUygulamasi_G020.genruntimeconfig.cache
+/Users/oguzhanpolat/Documents/C#_Projects/ButikSinemaUygulamasi_G020-3/ButikSinemaUygulamasi_G020/bin/Debug/netcoreapp3.1/ButikSinemaUygulamasi_G020
+/Users/oguzhanpolat/Documents/C#_Projects/ButikSinemaUygulamasi_G020-3/ButikSinemaUygulamasi_G020/bin/Debug/netcoreapp3.1/ButikSinemaUygulamasi_G020.deps.json
+/Users/oguzhanpolat/Documents/C#_Projects/ButikSinemaUygulamasi_G020-3/ButikSinemaUygulamasi_G020/bin/Debug/netcoreapp3.1/ButikSinemaUygulamasi_G020.runtimeconfig.json
+/Users/oguzhanpolat/Documents/C#_Projects/ButikSinemaUygulamasi_G020-3/ButikSinemaUygulamasi_G020/bin/Debug/netcoreapp3.1/ButikSinemaUygulamasi_G020.runtimeconfig.dev.json
+/Users/oguzhanpolat/Documents/C#_Projects/ButikSinemaUygulamasi_G020-3/ButikSinemaUygulamasi_G020/bin/Debug/netcoreapp3.1/ButikSinemaUygulamasi_G020.dll
+/Users/oguzhanpolat/Documents/C#_Projects/ButikSinemaUygulamasi_G020-3/ButikSinemaUygulamasi_G020/bin/Debug/netcoreapp3.1/ButikSinemaUygulamasi_G020.pdb
+/Users/oguzhanpolat/Documents/C#_Projects/ButikSinemaUygulamasi_G020-3/ButikSinemaUygulamasi_G020/obj/Debug/netcoreapp3.1/ButikSinemaUygulamasi_G020.csproj.AssemblyReference.cache
+/Users/oguzhanpolat/Documents/C#_Projects/ButikSinemaUygulamasi_G020-3/ButikSinemaUygulamasi_G020/obj/Debug/netcoreapp3.1/ButikSinemaUygulamasi_G020.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oguzhanpolat/Documents/C#_Projects/ButikSinemaUygulamasi_G020-3/ButikSinemaUygulamasi_G020/obj/Debug/netcoreapp3.1/ButikSinemaUygulamasi_G020.AssemblyInfoInputs.cache
+/Users/oguzhanpolat/Documents/C#_Projects/ButikSinemaUygulamasi_G020-3/ButikSinemaUygulamasi_G020/obj/Debug/netcoreapp3.1/ButikSinemaUygulamasi_G020.AssemblyInfo.cs
+/Users/oguzhanpolat/Documents/C#_Projects/ButikSinemaUygulamasi_G020-3/ButikSinemaUygulamasi_G020/obj/Debug/netcoreapp3.1/ButikSinemaUygulamasi_G020.csproj.CoreCompileInputs.cache
+/Users/oguzhanpolat/Documents/C#_Projects/ButikSinemaUygulamasi_G020-3/ButikSinemaUygulamasi_G020/obj/Debug/netcoreapp3.1/ButikSinemaUygulamasi_G020.dll
+/Users/oguzhanpolat/Documents/C#_Projects/ButikSinemaUygulamasi_G020-3/ButikSinemaUygulamasi_G020/obj/Debug/netcoreapp3.1/ButikSinemaUygulamasi_G020.pdb
+/Users/oguzhanpolat/Documents/C#_Projects/ButikSinemaUygulamasi_G020-3/ButikSinemaUygulamasi_G020/obj/Debug/netcoreapp3.1/ButikSinemaUygulamasi_G020.genruntimeconfig.cache

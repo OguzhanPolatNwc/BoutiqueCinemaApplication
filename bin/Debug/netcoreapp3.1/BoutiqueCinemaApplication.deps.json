@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BoutiqueCinemaApplication/1.0.0": {
+        "runtime": {
+          "BoutiqueCinemaApplication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BoutiqueCinemaApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+/Users/oguzhanpolat/Documents/C#_Projects/ButikSinemaUygulamasi_G020-3/BoutiqueCinemaApplication_G020/bin/Debug/netcoreapp3.1/BoutiqueCinemaApplication
+/Users/oguzhanpolat/Documents/C#_Projects/ButikSinemaUygulamasi_G020-3/BoutiqueCinemaApplication_G020/bin/Debug/netcoreapp3.1/BoutiqueCinemaApplication.deps.json
+/Users/oguzhanpolat/Documents/C#_Projects/ButikSinemaUygulamasi_G020-3/BoutiqueCinemaApplication_G020/bin/Debug/netcoreapp3.1/BoutiqueCinemaApplication.runtimeconfig.json
+/Users/oguzhanpolat/Documents/C#_Projects/ButikSinemaUygulamasi_G020-3/BoutiqueCinemaApplication_G020/bin/Debug/netcoreapp3.1/BoutiqueCinemaApplication.runtimeconfig.dev.json
+/Users/oguzhanpolat/Documents/C#_Projects/ButikSinemaUygulamasi_G020-3/BoutiqueCinemaApplication_G020/bin/Debug/netcoreapp3.1/BoutiqueCinemaApplication.dll
+/Users/oguzhanpolat/Documents/C#_Projects/ButikSinemaUygulamasi_G020-3/BoutiqueCinemaApplication_G020/bin/Debug/netcoreapp3.1/BoutiqueCinemaApplication.pdb
+/Users/oguzhanpolat/Documents/C#_Projects/ButikSinemaUygulamasi_G020-3/BoutiqueCinemaApplication_G020/obj/Debug/netcoreapp3.1/BoutiqueCinemaApplication.csproj.AssemblyReference.cache
+/Users/oguzhanpolat/Documents/C#_Projects/ButikSinemaUygulamasi_G020-3/BoutiqueCinemaApplication_G020/obj/Debug/netcoreapp3.1/BoutiqueCinemaApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oguzhanpolat/Documents/C#_Projects/ButikSinemaUygulamasi_G020-3/BoutiqueCinemaApplication_G020/obj/Debug/netcoreapp3.1/BoutiqueCinemaApplication.AssemblyInfoInputs.cache
+/Users/oguzhanpolat/Documents/C#_Projects/ButikSinemaUygulamasi_G020-3/BoutiqueCinemaApplication_G020/obj/Debug/netcoreapp3.1/BoutiqueCinemaApplication.AssemblyInfo.cs
+/Users/oguzhanpolat/Documents/C#_Projects/ButikSinemaUygulamasi_G020-3/BoutiqueCinemaApplication_G020/obj/Debug/netcoreapp3.1/BoutiqueCinemaApplication.csproj.CoreCompileInputs.cache
+/Users/oguzhanpolat/Documents/C#_Projects/ButikSinemaUygulamasi_G020-3/BoutiqueCinemaApplication_G020/obj/Debug/netcoreapp3.1/BoutiqueCinemaApplication.dll
+/Users/oguzhanpolat/Documents/C#_Projects/ButikSinemaUygulamasi_G020-3/BoutiqueCinemaApplication_G020/obj/Debug/netcoreapp3.1/BoutiqueCinemaApplication.pdb
+/Users/oguzhanpolat/Documents/C#_Projects/ButikSinemaUygulamasi_G020-3/BoutiqueCinemaApplication_G020/obj/Debug/netcoreapp3.1/BoutiqueCinemaApplication.genruntimeconfig.cache
